@@ -29,9 +29,8 @@ I have saved the key as file1.bin and username and password for Google Meet as f
 Read https://cryptography.io/en/latest/fernet.html on how to create a key and encrypt your text
 
 ## License
-The MIT License
-
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+[The MIT License](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
  
  ## Project Status
  I do not intend to work on this any further. This was a fun project that I wanted to do, which anyone can do in a few hours. If you want to share your views regarding this you may contact me [here](https://iammruni.github.io/#form1-e), although please do not expect a response.
