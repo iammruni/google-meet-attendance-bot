@@ -75,12 +75,9 @@ def mainfunc():
         time.sleep(2)
         join_now.click()
 
-    def open_new_tab():
-        driver.find_element_by_tag_name('body').send_keys(Keys.CONTROL + 't')
 
     def load_page(url, meetlnk=True):
         if meetlnk:
-            open_new_tab()
             time.sleep(1)
             driver.get(url)
             time.sleep(2)
