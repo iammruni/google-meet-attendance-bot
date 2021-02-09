@@ -1,5 +1,5 @@
 # Google Meet Attendance Bot
-This a browser automation script writting in Python using Selenium. The requirement for this bot was to make it easy for me to join classes. The general procedure was checking the day order followed by the time table for the specific day order. Then checking the lecture and finally its Google Meet link.
+This a browser automation script writting in Python using Selenium. The requirement for this script/bot was to make it easy for me to join classes. The general procedure was checking the day order followed by the time table for the specific day order. Then checking the lecture and finally its Google Meet link.
 To ease this process I created this bot which automatically joins the classes for me.
 
 The script is written specifically for SRM IST, KTR.
