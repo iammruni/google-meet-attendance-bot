@@ -30,6 +30,7 @@ Read https://cryptography.io/en/latest/fernet.html on how to create a key and en
 
 ## License
 [The MIT License](LICENSE.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
  
  ## Project Status
